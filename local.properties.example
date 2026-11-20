@@ -1,0 +1,4 @@
+# Copie ce fichier en local.properties (il est ignoré par git) et remplis :
+sdk.dir=/chemin/vers/Android/sdk
+supabase.url=https://TON-PROJET.supabase.co
+supabase.key=sb_publishable_xxxxxxxxxxxxxxxxxxxx

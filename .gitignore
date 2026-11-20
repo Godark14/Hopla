@@ -1,0 +1,17 @@
+*.iml
+.gradle/
+/local.properties
+.idea/
+.DS_Store
+build/
+/captures
+.kotlin/
+
+# Signature : ne jamais versionner le keystore ni ses mots de passe
+*.jks
+*.keystore
+keystore.properties
+
+# Cache local de la CLI Supabase
+supabase/.temp/
+supabase/.branches/
