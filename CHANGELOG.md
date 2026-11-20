@@ -61,5 +61,5 @@ Première version publique. 🎉
   comptage écran éteint : désactive-la pour Hopla dans les réglages du téléphone.
 - Les données des athlètes en mode démo sont fictives.
 
-[Non publié]: https://github.com/OWNER/hopla/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/OWNER/hopla/releases/tag/v1.0.0
+[Non publié]: https://github.com/Godark14/hopla/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/Godark14/hopla/releases/tag/v1.0.0
