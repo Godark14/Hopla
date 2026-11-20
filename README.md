@@ -7,7 +7,7 @@
 Glisse ton téléphone dans ta poche, saute : Hopla compte chaque saut, chronomètre la séance,
 estime tes calories et te mesure à ta bande.
 
-[![Release](https://img.shields.io/github/v/release/OWNER/hopla?color=D94A1E&label=télécharger)](https://github.com/OWNER/hopla/releases/latest)
+[![Release](https://img.shields.io/github/v/release/Godark14/hopla?color=D94A1E&label=télécharger)](https://github.com/OWNER/hopla/releases/latest)
 ![Android 8+](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.4-7F52FF?logo=kotlin&logoColor=white)
 ![Material 3 Expressive](https://img.shields.io/badge/Material%203-Expressive-D94A1E)
