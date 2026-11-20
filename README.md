@@ -19,7 +19,7 @@ estime tes calories et te mesure à ta bande.
 
 ## Télécharger
 
-1. Télécharge `app-release.apk` depuis la [dernière release](https://github.com/OWNER/hopla/releases/latest).
+1. Télécharge `app-release.apk` depuis la [dernière release](https://github.com/Godark14/hopla/releases/latest).
 2. Ouvre le fichier sur ton téléphone et autorise l'installation depuis cette source si Android le demande.
 
 Android 8.0 ou plus récent, avec accéléromètre (c'est le cas de quasiment tous les téléphones).
