@@ -13,10 +13,7 @@ estime tes calories et te mesure à ta bande.
 ![Material 3 Expressive](https://img.shields.io/badge/Material%203-Expressive-D94A1E)
 [![Licence MIT](https://img.shields.io/badge/licence-MIT-blue)](LICENSE)
 
-<img src="docs/screenshots/home.png" width="22%" alt="Accueil" />
-<img src="docs/screenshots/workout.png" width="22%" alt="Séance en cours" />
-<img src="docs/screenshots/friends.png" width="22%" alt="Classement" />
-<img src="docs/screenshots/themes.png" width="22%" alt="Thèmes" />
+<img src="docs/screenshots/banner.png" alt="Hopla : accueil, séance, classement et thèmes" width="100%" />
 
 </div>
 
